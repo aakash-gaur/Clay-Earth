@@ -1,0 +1,27 @@
+@media screen and (max-width: 1000px){
+    body{
+        /* background-color: red; */
+    }
+    header{
+        height: 15vh;
+    }
+    nav{
+        display: flex;
+        flex-direction: column;
+    }
+    .logo{
+        margin: 10px auto;
+    }
+    .slider img{
+        width: 80vw;
+    }
+    .card-item img{
+        width: 20vw;
+    }
+    .text-center{
+        font-size: 70%;
+    }
+    .card h2{
+        font-size: 80%;
+    }
+}

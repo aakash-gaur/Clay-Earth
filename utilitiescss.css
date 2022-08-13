@@ -1,0 +1,22 @@
+.flex-all-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.btn{
+    color: var(--main-bg-color);
+    background-color: white;
+    height: 30px;
+    width: 80px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.btn:hover{
+    transform: scale(1,1);
+}
+.text-center{
+    /* text-align: center; */
+    padding: 3px 25px;
+    font-family: 'Baloo Bhai 2', cursive;;
+}
